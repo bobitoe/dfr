@@ -1,3 +1,5 @@
+![](https://github.com/MrQUACKK/dfr/blob/main/example.png)
+
 Distraction Free Reddit is some very simple CSS to make Reddit less distracting.
 
 This was inspired by DF YouTube([Firefox](https://addons.mozilla.org/en-US/firefox/addon/df-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search), [Chrome](https://chrome.google.com/webstore/detail/df-tube-distraction-free/mjdepdfccjgcndkmemponafgioodelna))
